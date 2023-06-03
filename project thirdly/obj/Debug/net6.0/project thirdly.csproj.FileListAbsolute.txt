@@ -1,0 +1,15 @@
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\bin\Debug\net6.0\project thirdly.exe
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\bin\Debug\net6.0\project thirdly.deps.json
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\bin\Debug\net6.0\project thirdly.runtimeconfig.json
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\bin\Debug\net6.0\project thirdly.dll
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\bin\Debug\net6.0\project thirdly.pdb
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\obj\Debug\net6.0\project thirdly.csproj.AssemblyReference.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\obj\Debug\net6.0\project thirdly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\obj\Debug\net6.0\project thirdly.AssemblyInfoInputs.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\obj\Debug\net6.0\project thirdly.AssemblyInfo.cs
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\obj\Debug\net6.0\project thirdly.csproj.CoreCompileInputs.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\obj\Debug\net6.0\project thirdly.dll
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\obj\Debug\net6.0\refint\project thirdly.dll
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\obj\Debug\net6.0\project thirdly.pdb
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\obj\Debug\net6.0\project thirdly.genruntimeconfig.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\project thirdly\project thirdly\obj\Debug\net6.0\ref\project thirdly.dll
